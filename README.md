@@ -59,5 +59,5 @@ Example prompt:
 - Downloadable CSV
 - first 10 rows of the scraped data
 
-![Prompt2Scrape Screenshot](assets/screenshot.png)
+![Prompt2Scrape Screenshot](assets/Screenshot.png)
 
